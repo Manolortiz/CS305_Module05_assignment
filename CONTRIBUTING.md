@@ -1,6 +1,6 @@
 # CONTRIBUTING Guidelines
 1) My name is Ian Philippi (icp27) and I am a contributor to this project.
-
+2) I am Brayden and I forked this repo and am adding my name here and creating a pull request.
 
 
 
